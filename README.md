@@ -1,1 +1,1 @@
-# -logic-task-pass
+# logic-task-pass
